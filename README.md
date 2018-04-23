@@ -1,5 +1,5 @@
 # PiBot
-Python scripts used to make an RC car and controller from 2x Raspberry Pi 3s.
+A couple of simple Python scripts used to make an RC car and controller from 2x Raspberry Pi 3s.
 
 Sever acts as the RC car and the client as the controller, using the GPIO for input switches.
 
